@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 1781,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coins_1
+  rotate: false
+  xy: 1691, 64
+  size: 89, 131
+  orig: 194, 194
+  offset: 53, 33
+  index: -1
+Coins_10
+  rotate: false
+  xy: 589, 1
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_11
+  rotate: false
+  xy: 785, 197
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_12
+  rotate: false
+  xy: 785, 1
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_13
+  rotate: false
+  xy: 981, 197
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_14
+  rotate: false
+  xy: 981, 1
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_15
+  rotate: false
+  xy: 1177, 197
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_16
+  rotate: true
+  xy: 1373, 1
+  size: 194, 189
+  orig: 194, 194
+  offset: 0, 5
+  index: -1
+Coins_17
+  rotate: false
+  xy: 1373, 197
+  size: 193, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_18
+  rotate: false
+  xy: 1568, 197
+  size: 144, 194
+  orig: 194, 194
+  offset: 30, 0
+  index: -1
+Coins_19
+  rotate: false
+  xy: 1564, 36
+  size: 125, 159
+  orig: 194, 194
+  offset: 54, 35
+  index: -1
+Coins_2
+  rotate: false
+  xy: 1, 197
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_3
+  rotate: false
+  xy: 1, 1
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_4
+  rotate: false
+  xy: 197, 197
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_5
+  rotate: false
+  xy: 197, 1
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_6
+  rotate: false
+  xy: 393, 197
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_7
+  rotate: false
+  xy: 393, 1
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_8
+  rotate: false
+  xy: 589, 197
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Coins_9
+  rotate: false
+  xy: 1177, 1
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+bonus_respin.png
+size: 714,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_light
+  rotate: false
+  xy: 1, 1
+  size: 221, 221
+  orig: 256, 256
+  offset: 18, 17
+  index: -1
+rs/spins_rs_02
+  rotate: false
+  xy: 664, 166
+  size: 49, 56
+  orig: 363, 121
+  offset: 77, 33
+  index: -1
+rs/spins_rs_03
+  rotate: false
+  xy: 612, 19
+  size: 88, 93
+  orig: 363, 121
+  offset: 58, 10
+  index: -1
+rs/spins_rs_04
+  rotate: false
+  xy: 431, 12
+  size: 93, 97
+  orig: 363, 121
+  offset: 57, 9
+  index: -1
+rs/spins_rs_05
+  rotate: false
+  xy: 329, 4
+  size: 100, 103
+  orig: 363, 121
+  offset: 54, 7
+  index: -1
+rs/spins_rs_07
+  rotate: false
+  xy: 224, 2
+  size: 103, 105
+  orig: 363, 121
+  offset: 53, 6
+  index: -1
+rs/spins_rs_08
+  rotate: false
+  xy: 554, 114
+  size: 108, 108
+  orig: 363, 121
+  offset: 50, 5
+  index: -1
+rs/spins_rs_09
+  rotate: false
+  xy: 334, 111
+  size: 108, 111
+  orig: 363, 121
+  offset: 50, 4
+  index: -1
+rs/spins_rs_10
+  rotate: false
+  xy: 224, 109
+  size: 108, 113
+  orig: 363, 121
+  offset: 50, 3
+  index: -1
+rs/spins_rs_12
+  rotate: false
+  xy: 444, 111
+  size: 108, 111
+  orig: 363, 121
+  offset: 50, 4
+  index: -1
+rs/spins_rs_14
+  rotate: false
+  xy: 526, 6
+  size: 84, 103
+  orig: 363, 121
+  offset: 54, 9
+  index: -1

@@ -1,0 +1,153 @@
+
+Bingo.png
+size: 961,871
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: true
+  xy: 475, 8
+  size: 109, 123
+  orig: 109, 123
+  offset: 0, 0
+  index: -1
+BG_Light
+  rotate: false
+  xy: 1, 4
+  size: 379, 381
+  orig: 379, 381
+  offset: 0, 0
+  index: -1
+Bingo
+  rotate: true
+  xy: 619, 514
+  size: 356, 322
+  orig: 356, 322
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: true
+  xy: 753, 227
+  size: 137, 136
+  orig: 137, 136
+  offset: 0, 0
+  index: -1
+Double
+  rotate: false
+  xy: 619, 440
+  size: 270, 72
+  orig: 270, 72
+  offset: 0, 0
+  index: -1
+G
+  rotate: true
+  xy: 822, 11
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+HF
+  rotate: true
+  xy: 1, 387
+  size: 483, 171
+  orig: 483, 171
+  offset: 0, 0
+  index: -1
+I
+  rotate: false
+  xy: 891, 250
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+Light_Left_Down
+  rotate: true
+  xy: 382, 1
+  size: 81, 91
+  orig: 81, 91
+  offset: 0, 0
+  index: -1
+Light_Left_Up
+  rotate: false
+  xy: 460, 119
+  size: 147, 160
+  orig: 147, 160
+  offset: 0, 0
+  index: -1
+Light_Right_Down
+  rotate: true
+  xy: 753, 136
+  size: 89, 84
+  orig: 89, 84
+  offset: 0, 0
+  index: -1
+Light_Right_Up
+  rotate: false
+  xy: 609, 133
+  size: 142, 146
+  orig: 142, 146
+  offset: 0, 0
+  index: -1
+N
+  rotate: true
+  xy: 582, 281
+  size: 83, 93
+  orig: 83, 93
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 600, 16
+  size: 90, 101
+  orig: 90, 101
+  offset: 0, 0
+  index: -1
+Star_BenTi
+  rotate: true
+  xy: 174, 402
+  size: 468, 443
+  orig: 468, 443
+  offset: 0, 0
+  index: -1
+Star_Left
+  rotate: true
+  xy: 382, 84
+  size: 195, 76
+  orig: 195, 76
+  offset: 0, 0
+  index: -1
+Star_LiZi
+  rotate: false
+  xy: 692, 1
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+Star_Right
+  rotate: true
+  xy: 891, 347
+  size: 165, 66
+  orig: 165, 66
+  offset: 0, 0
+  index: -1
+Star_Right_Up
+  rotate: true
+  xy: 382, 281
+  size: 119, 198
+  orig: 119, 198
+  offset: 0, 0
+  index: -1
+Star_light
+  rotate: true
+  xy: 839, 97
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Triple
+  rotate: false
+  xy: 619, 366
+  size: 270, 72
+  orig: 270, 72
+  offset: 0, 0
+  index: -1

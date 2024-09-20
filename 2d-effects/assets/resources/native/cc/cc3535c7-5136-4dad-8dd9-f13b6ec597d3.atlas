@@ -1,0 +1,167 @@
+
+baopo.png
+size: 433,1043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 145, 1
+  size: 138, 135
+  orig: 138, 135
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 159, 886
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1, 728
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 159, 728
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1, 570
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1, 417
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 156, 417
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1, 265
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 153, 269
+  size: 146, 150
+  orig: 146, 150
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 153, 138
+  size: 129, 143
+  orig: 129, 143
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 1, 140
+  size: 123, 143
+  orig: 124, 143
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 305, 224
+  size: 129, 127
+  orig: 129, 127
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 311, 355
+  size: 121, 142
+  orig: 121, 142
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 1, 17
+  size: 121, 142
+  orig: 121, 142
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 317, 784
+  size: 110, 142
+  orig: 110, 142
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 317, 499
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 317, 928
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 317, 583
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 285, 11
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 317, 680
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 298, 95
+  size: 127, 129
+  orig: 127, 129
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1, 886
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 159, 570
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1

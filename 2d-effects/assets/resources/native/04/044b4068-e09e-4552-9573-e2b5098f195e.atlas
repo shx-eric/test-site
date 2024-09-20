@@ -1,0 +1,55 @@
+
+nt_ChooFortune_icon_win.png
+size: 1268,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zjk_1
+  rotate: false
+  xy: 184, 1
+  size: 179, 129
+  orig: 184, 129
+  offset: 3, 0
+  index: -1
+zjk_11
+  rotate: false
+  xy: 727, 1
+  size: 179, 129
+  orig: 184, 129
+  offset: 3, 0
+  index: -1
+zjk_13
+  rotate: false
+  xy: 1089, 1
+  size: 178, 129
+  orig: 184, 129
+  offset: 4, 0
+  index: -1
+zjk_3
+  rotate: false
+  xy: 365, 1
+  size: 179, 129
+  orig: 184, 129
+  offset: 4, 0
+  index: -1
+zjk_5
+  rotate: false
+  xy: 546, 1
+  size: 179, 129
+  orig: 184, 129
+  offset: 3, 0
+  index: -1
+zjk_7
+  rotate: false
+  xy: 1, 1
+  size: 181, 129
+  orig: 184, 129
+  offset: 1, 0
+  index: -1
+zjk_9
+  rotate: false
+  xy: 908, 2
+  size: 179, 128
+  orig: 184, 129
+  offset: 3, 1
+  index: -1
